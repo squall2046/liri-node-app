@@ -114,6 +114,6 @@ fs.appendFile("log.txt", addText, function (err) {
         console.log(err);
     }
     else {
-        console.log('"✎ log updated!"');
+        console.log('"✎ log has updated!"');
     }
 });
