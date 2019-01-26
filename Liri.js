@@ -27,21 +27,20 @@ function spotifySearch() {
     var keys = require("./keys.js");
     var spotify = new Spotify(keys.spotify);
 
-    var searchSong = newSearch;
+    var searchSong = process.argv.slice(3);
     if (newSearch.length < 1) {
-        searchSong = "The Sign";
+        searchSong = "The Sign Ace of Base";
     }
     spotify.search({ type: 'track', query: searchSong }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-        console.log("Song Name: " + data.tracks.items[0].name);
 
         console.log("\n       " + data.tracks.items[0].artists[0].name + " - < " + data.tracks.items[0].name + " >");
         console.log("\n  ☁ ♬☁☁☁☁☁☁☁ ♯☁☁☁☁☁☁☁☁☁ MUSIC ♪ ☁☁☁ ♬☁☁☁☁☁☁☁ ♩☁☁☁☁☁☁☁☁ ");
         console.log("   ♪ Artist: " + data.tracks.items[0].artists[0].name);
         console.log("   ♪ Album Name: " + data.tracks.items[0].album.name);
-        console.log("   ♪ preview-link: "+data.tracks.items[0].album.external_urls.spotify);
+        console.log("   ♪ preview-link: " + data.tracks.items[0].album.external_urls.spotify);
         console.log("  ☁☁☁☁☁ ♬☁☁☁☁☁☁☁☁ ♩☁☁☁☁☁☁☁ ♫☁☁☁☁☁☁☁☁☁ ♯☁☁☁☁☁☁☁☁☁ ♭☁☁☁☁ ");
         console.log("\n   © Liri App by Isaac Wu \n");
     });
