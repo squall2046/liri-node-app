@@ -2,7 +2,7 @@
 
 ## Overview
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. It is a **command line node app** that takes in parameters and gives you back data. 
-####   * Click  **[>>>Here<<<](https://youtu.be/F9wBMugsnOE)**  Check my :tv: video to see how it works.
+####   :point_right: Click  **[>>>Here<<<](https://youtu.be/F9wBMugsnOE)**  Check my :tv: video to see how it works.
 ![concert](/imgs/w6.jpg)
 
 
