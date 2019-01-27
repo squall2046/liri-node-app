@@ -57,5 +57,5 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 * [Game Repo](https://github.com/squall2046/liri-node-app)
 
 ## Copyright
-Isaac Wu © 2018 All Rights Reserved
+Isaac Wu © 2019 All Rights Reserved
 
