@@ -37,8 +37,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ## :page_facing_up:4. node liri.js do-what-it-says
      * It will run `spotify-this-song` for "I Want it That Way" as follows the text in local `random.txt`.
 
-### :ballot_box_with_check:Log
-* Each command you run will append to the `log.txt` file.
+:ballot_box_with_check:   * Each command you run will append to the `log.txt` file.
 
 ## :headphones:Author:
 * [Isaac Wu](https://github.com/squall2046)
