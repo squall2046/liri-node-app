@@ -39,7 +39,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 :ballot_box_with_check:   * Each command you run will append to the `log.txt` file.
 
-## :headphones:Author:  
+## Author
 * [Isaac Wu](https://github.com/squall2046)
 * [Game Repo](https://github.com/squall2046/liri-node-app)
 
