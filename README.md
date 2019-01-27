@@ -6,7 +6,6 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 > :tv:
 > Click  >>>**[Here](https://youtu.be/F9wBMugsnOE)**<<<  and check the video to see how it works.
 
-:fast_forward:
 
 ## Instruction
 
@@ -21,7 +20,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
      * A preview link of the song from Spotify
      * The album that the song is from
 
---    * If no song is provided then your program will default to "The Sign" by Ace of Base.
+:fast_forward:   * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 ## :clapper:3. node liri.js movie-this '<movie name here>'10:59 PM 1/26/201910:59 PM 1/26/2019
        * Title of the movie.
@@ -33,9 +32,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
        * Plot of the movie.
        * Actors in the movie.
 
---   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+:fast_forward:   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-##:page_facing_up:4. node liri.js do-what-it-says
+## :page_facing_up:4. node liri.js do-what-it-says
      * It will run `spotify-this-song` for "I Want it That Way" as follows the text in local `random.txt`.
 
 ### :ballot_box_with_check:Log
