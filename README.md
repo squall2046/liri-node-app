@@ -1,10 +1,9 @@
 # :headphones: liri-node-app
 
 ### Overview
-LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+>LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-> :tv:
-> Click  >>>**[Here](https://youtu.be/F9wBMugsnOE)**<<<  and check the video to see how it works.
+> Click  >>>**[Here](https://youtu.be/F9wBMugsnOE)**<<<  and check my :tv: video to see how it works.
 
 
 ## Instruction
