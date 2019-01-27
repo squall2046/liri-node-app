@@ -15,7 +15,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 ![concert](/imgs/scr1.png)
 
 
-## :microphone: 2. node liri.js spotify-this-song '<song name here>'
+## :microphone: 2. node liri.js spotify-this-song <song name here>
      * Artist(s)
      * The song's name
      * A preview link of the song from Spotify
@@ -27,7 +27,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ![concert](/imgs/scr3.png)
 
-## :clapper: 3. node liri.js movie-this '<movie name here>
+## :clapper: 3. node liri.js movie-this <movie name here>
        * Title of the movie.
        * Year the movie came out.
        * IMDB Rating of the movie.
