@@ -1,11 +1,8 @@
 # :headphones: liri-node-app
 
-### Overview
-     LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, 
-     LIRI is a _Language_ Interpretation and Recognition Interface. 
-     LIRI will be a command line node app that takes in parameters and gives you back data.
-
-* Click  >>>**[Here](https://youtu.be/F9wBMugsnOE)**<<<  and check my :tv: video to see how it works.
+## Overview
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. It is a **command line node app** that takes in parameters and gives you back data. 
+####   * Click  **[>>>Here<<<](https://youtu.be/F9wBMugsnOE)**  Check my :tv: video to see how it works.
 
 
 ## Instruction
@@ -30,7 +27,7 @@
 
 ![concert](/imgs/scr3.png)
 
-## :clapper: 3. node liri.js movie-this '<movie name here>'10:59 PM 1/26/201910:59 PM 1/26/2019
+## :clapper: 3. node liri.js movie-this '<movie name here>
        * Title of the movie.
        * Year the movie came out.
        * IMDB Rating of the movie.
@@ -60,5 +57,5 @@
 * [Game Repo](https://github.com/squall2046/liri-node-app)
 
 ## Copyright
-Isaac Wu © 2018 All Rights Reserved
+Isaac Wu © 2019 All Rights Reserved
 
