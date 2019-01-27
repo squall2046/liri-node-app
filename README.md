@@ -6,8 +6,6 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 > :tv:
 > Click  >>>**[Here](https://youtu.be/F9wBMugsnOE)**<<<  and check the video to see how it works.
 
-:fast_forward:
-
 ## Instruction
 
 ##  :guitar:1. node liri.js concert-this <artist/band name here>
