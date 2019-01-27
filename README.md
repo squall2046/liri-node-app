@@ -15,13 +15,20 @@
      * Venue location
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
+![concert](/imgs/2019-01-26 (3))
+
+
 ## :microphone: 2. node liri.js spotify-this-song '<song name here>'
      * Artist(s)
      * The song's name
      * A preview link of the song from Spotify
      * The album that the song is from
 
+![concert](/imgs/2019-01-26 (4))
+
 :fast_forward:   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+
+![concert](/imgs/2019-01-26 (5))
 
 ## :clapper: 3. node liri.js movie-this '<movie name here>'10:59 PM 1/26/201910:59 PM 1/26/2019
        * Title of the movie.
@@ -33,12 +40,20 @@
        * Plot of the movie.
        * Actors in the movie.
 
+![concert](/imgs/2019-01-26 (6))
+
 :fast_forward:   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+
+![concert](/imgs/2019-01-26 (7))
 
 ## :page_facing_up: 4. node liri.js do-what-it-says
      * It will run `spotify-this-song` for "I Want it That Way" as follows the text in local `random.txt`.
 
+![concert](/imgs/2019-01-26 (1))
+
 :ballot_box_with_check:   * Each command you run will append to the `log.txt` file.
+
+![concert](/imgs/2019-01-26 (2))
 
 ## Author
 * [Isaac Wu](https://github.com/squall2046)
