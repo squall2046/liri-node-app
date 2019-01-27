@@ -1,4 +1,4 @@
-# :headphones:liri-node-app
+# :headphones: liri-node-app
 
 ### Overview
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
@@ -9,12 +9,12 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ## Instruction
 
-##  :guitar:1. node liri.js concert-this <artist/band name here>
+##  :guitar: 1. node liri.js concert-this <artist/band name here>
      * Name of the venue
      * Venue location
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-## :microphone:2. node liri.js spotify-this-song '<song name here>'
+## :microphone: 2. node liri.js spotify-this-song '<song name here>'
      * Artist(s)
      * The song's name
      * A preview link of the song from Spotify
@@ -22,7 +22,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 :fast_forward:   * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-## :clapper:3. node liri.js movie-this '<movie name here>'10:59 PM 1/26/201910:59 PM 1/26/2019
+## :clapper: 3. node liri.js movie-this '<movie name here>'10:59 PM 1/26/201910:59 PM 1/26/2019
        * Title of the movie.
        * Year the movie came out.
        * IMDB Rating of the movie.
@@ -34,7 +34,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 :fast_forward:   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-## :page_facing_up:4. node liri.js do-what-it-says
+## :page_facing_up: 4. node liri.js do-what-it-says
      * It will run `spotify-this-song` for "I Want it That Way" as follows the text in local `random.txt`.
 
 :ballot_box_with_check:   * Each command you run will append to the `log.txt` file.
