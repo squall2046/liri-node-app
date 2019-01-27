@@ -27,7 +27,7 @@ function spotifySearch() {
     var keys = require("./keys.js");
     var spotify = new Spotify(keys.spotify);
 
-    var searchSong = process.argv.slice(3);
+    var searchSong = newSearch;
     if (newSearch.length < 1) {
         searchSong = "The Sign Ace of Base";
     }
